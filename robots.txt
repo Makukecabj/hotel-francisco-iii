@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotel-francisco-iii.vercel.app/sitemap.xml
